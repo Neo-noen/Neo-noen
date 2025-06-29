@@ -7,5 +7,6 @@ I love trying new things, only if they work
 ## Things that I have learnt
 - Python
 - That's it
+- Something something about machine learning
 
 # Ok goodbye chat!!!
