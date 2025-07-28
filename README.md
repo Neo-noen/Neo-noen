@@ -1,12 +1,8 @@
-# Hi chat
+# About Me
+I am a middle-school student who is a self-taught programmer.
+Most of my projects are purely to educate myself or to experiment and explore other concepts and ideas.
+I don't write practical or production code often, and if I do, they're not to be used as an actual service within a production enviroment or any enviroment.
 
-## About me
-I am a secondary student and self-taught programmer (im very stupid dont even ask me about anything technical).
-I love trying new things, only if they work
-
-## Things that I have learnt
-- Python
-- That's it
-- Something something about machine learning
-
-# Ok goodbye chat!!!
+# Current Projects
+I don't have projects that I am actively working on and wanting to share.
+There will be more to this.
